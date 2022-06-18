@@ -1,0 +1,1 @@
+​​{when:{arglen};lt;2;Which 2 names do you want me to combine? (When there's more than 2 words, I'll only combine the first 2);}{when:{arglen};gt;1;{slice:0,{math:round;{math:div;{len:{arg1};};2;};};{arg1};}{slice:{math:round;{math:div;{len:{arg2};};2;};},{len:{arg2};};{arg2};};}

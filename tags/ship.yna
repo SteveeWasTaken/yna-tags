@@ -1,0 +1,6 @@
+​​​​​{when:{arglen};lt;3;{set:first;{when:{arglen};eq;2;{arg1};<@{callerid}>;};}{set:second;{when:{arglen};eq;2;{arg2};{when:{arglen};eq;0;{user;};{args};};};}{set:score;{wchoose:X% - Shit.;10;1X% - Terrible...;10;2X% - Really Bad.;10;3X% - Bad.;10;4X% - Meh?;10;5X% Okay...;10;6X% - Good.;10;7X% - Great!;10;8X% - Waifu!!;10;9X% - OTP!!!;10;100% - JUST MARRY ALREADY!!!!!;1;};}{set:score;{rep:X;{score};{num:9;};};}=====Shipping Score===== 
+ First: {first} 
+ Second: {second} 
+ ===================== 
+ {score};whoops too many people;} 
+ (Ship requested by <@{callerid}>)****

@@ -9,3 +9,11 @@ It's really simple.
 2. In your server, type in `+tag create <your-tag-name>`, obviously replacing <your-tag-name> with the name you want to use for the tag.
 3. Once 42 asks you for what you want to put in your tag, attach your .yna file to the chat, and don't send any text, just the .yna file.
 4. Done! To use the tag, just run `+tag <your-tag-name>`.
+
+### Credits
+Thanks to RHVGamer#7970 for
+	- ship
+	- shipname
+	- challenge
+Thanks to Mustfa1980#1345 for
+	- emoji-letters
