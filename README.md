@@ -10,6 +10,11 @@ It's really simple.
 3. Once 42 asks you for what you want to put in your tag, attach your .yna file to the chat, and don't send any text, just the .yna file.
 4. Done! To use the tag, just run `+tag <your-tag-name>`.
 
+### Deleting tags
+If you added a tag you no longer want to use, or misspelled something, then you can delete the tag to try again.
+
+1. All you have to do is run the command `+tag delete <your-tag-name>` and it's done.
+
 ### Credits
 Thanks to RHVGamer#7970 for
 - ship
