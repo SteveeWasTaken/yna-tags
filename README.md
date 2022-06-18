@@ -12,8 +12,9 @@ It's really simple.
 
 ### Credits
 Thanks to RHVGamer#7970 for
-	- ship
-	- shipname
-	- challenge
+- ship
+- shipname
+- challenge
+
 Thanks to Mustfa1980#1345 for
-	- emoji-letters
+- emoji-letters
