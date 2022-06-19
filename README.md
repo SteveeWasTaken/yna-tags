@@ -2,6 +2,8 @@
 
 Welcome to the YNA-Tags repository. In here, you will find some cool useful tags you can use for your Discord servers, with [42](https://42.rockett.space/).
 
+### Bonus
+The Manual has it's own GitHub repository! Find it [here](https://github.com/steveewastaken/yna-manual)
 ### Adding tags to your server
 It's really simple.
 
